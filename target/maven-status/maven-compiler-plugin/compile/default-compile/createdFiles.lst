@@ -1,0 +1,4 @@
+com\learnSpring\RestAPI\controller\TestController.class
+com\learnSpring\RestAPI\Service\TestService.class
+com\learnSpring\RestAPI\Repository\TestRepository.class
+com\learnSpring\RestAPI\RestApiApplication.class
